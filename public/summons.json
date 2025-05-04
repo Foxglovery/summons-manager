@@ -1,0 +1,27 @@
+[
+    {
+      "id": "tiny-object",
+      "name": "Tiny Animated Object",
+      "source": "Animate Objects",
+      "ac": 18,
+      "hp": 20,
+      "attack": {
+        "name": "Slam",
+        "toHit": "+8",
+        "damage": "1d4 + 4 bludgeoning"
+      },
+      "str": 4,
+      "dex": 18,
+      "con": 10,
+      "int": 3,
+      "wis": 3,
+      "cha": 1,
+      "speed": "30 ft or fly 30 ft (hover)",
+      "senses": "Blindsight 30 ft (blind beyond)",
+      "traits": [
+        "Follows last command until completed",
+        "Defends itself if not commanded"
+      ]
+    }
+  ]
+  
